@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <h1>Welcome to Back4app Containers</h1>
+        <h1>Test</h1>
       </body>
     </html>
   `);
